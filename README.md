@@ -9,7 +9,9 @@
 <a href="https://instagram.com/ithaqewl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ithaqewl" height="30" width="40" /></a>
 <a href="https://discord.gg/imscaredofithaqua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imscaredofithaqua" height="30" width="40" /></a>
 </p>
+<h1 align="center">Paws at you🐾</h1>
+<img width="906" height="766" alt="image" src="https://github.com/user-attachments/assets/740afab2-9330-42b0-8206-55807671ab86" />
 
 <!--
 **ImscaredofEtaVilulf/ImscaredofEtaVilulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">Paws at you🐾</h1>
+
