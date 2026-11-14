@@ -1,4 +1,4 @@
-<img width="1199" height="496" alt="image" src="https://github.com/user-attachments/assets/95584905-5b8d-41bc-9153-830b1dee6454" />
+<img width="1199" height="496" alt="image" src="https://github.com/user-attachments/assets/b9902852-1013-46c3-9ed0-5e8b9fccd22c" />
 <h1 align="center">Wassup!¡ I’m Ellie</h1>
 <h3 align="center">I’m currently trying to adapt with this app</h3>
 
